@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minellis
 - 👀 I’m interested in Linux/debian espressif homeautomation and electronics
-- 🌱 I’m currently learning everthing what´s new
+- 🌱 I’m currently learning everthing what´s new and matches my interests
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me minellis.eu
 
